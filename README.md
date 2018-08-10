@@ -1,5 +1,5 @@
 # Oficinas
 GESTOR DE RECLAMAÇÕES PARA CONDOMÍNIOS 
 
-Alunos : Rafael de castro silva,
-Ricardo henrique morais mutão
+Alunos : Rafael de Castro Silva,
+Ricardo Henrique Morais Mutão
